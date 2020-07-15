@@ -1,0 +1,45 @@
+player,city,state,region,song_chart,rank,score,chartsteps,steps,perfects,greats,goods,bads,misses,max.combo,grade,noteskin,player_side,order,velocity,gender,fd,perfects_ratio,greats_ratio,goods_ratio,bads_ratio,misses_ratio,max_combo_ratio,titles,lon,lat,locations
+zelllooo,Dallas,TX,texas,robot_battle_s18,1,4391100,1000,1000,959,41,0,0,0,1000,Sg,easy,p2,4,630,m,n,0.959,0.041,0,0,0,1,"Robot Battle, S18",-96.7969879,32.7766642,Dallas TX
+f33tz,Chino Hills,CA,socal,robot_battle_s18,2,4354300,1000,1000,974,25,1,0,0,999,Sb,old,p1,5,630,m,y,0.974,0.025,0.001,0,0,0.999,"Robot Battle, S18",-117.7325848,33.9898188,Chino Hills CA
+chaddly,New Orleans,LA,nola,robot_battle_s18,3,4352100,1000,1000,972,27,1,0,0,999,Sb,fiesta,p2,2,655,m,n,0.972,0.027,0.001,0,0,0.999,"Robot Battle, S18",-90.0715323,29.9510658,New Orleans LA
+mrclickman,San Diego,CA,sd,robot_battle_s18,4,4346900,1000,1000,970,28,2,0,0,998,Sb,old,p1,2,701,m,n,0.97,0.028,0.002,0,0,0.998,"Robot Battle, S18",-117.1610838,32.715738,San Diego CA
+funktion,Sacramento,CA,norcal,robot_battle_s18,5,4273100,1000,1000,910,85,5,0,0,995,Sb,wind,p1,12,612,m,n,0.91,0.085,0.005,0,0,0.995,"Robot Battle, S18",-121.4943996,38.5815719,Sacramento CA
+_imsorry,San Francisco,CA,norcal,robot_battle_s18,6,4207200,1000,1000,944,53,2,1,0,906,Sb,nx,p2,6,650,m,n,0.944,0.053,0.002,0.001,0,0.906,"Robot Battle, S18",-122.4194155,37.7749295,San Francisco CA
+kooper,Fullerton,CA,socal,robot_battle_s18,7,3943400,1000,999,807,185,7,0,1,554,A,prime,p1,3,700,m,n,0.807,0.185,0.007,0,0.001,0.554,"Robot Battle, S18",-117.9242123,33.8703645,Fullerton CA
+itws,Los Angeles,CA,socal,robot_battle_s18,8,3912300,1000,997,894,97,5,1,3,448,A,nx,p2,21,666,m,n,0.894,0.097,0.005,0.001,0.003,0.448,"Robot Battle, S18",-118.2436849,34.0522342,Los Angeles CA
+bbcplat,Las Vegas,NV,lv,robot_battle_s18,9,3900500,1000,996,941,48,6,1,4,802,A,prime,p2,5,650,m,y,0.941,0.048,0.006,0.001,0.004,0.802,"Robot Battle, S18",-115.1398296,36.1699412,Las Vegas NV
+jboy,Raleigh,NC,nc,robot_battle_s18,10,3801300,1000,999,893,101,3,2,1,635,A,sheep,p1,4,573,m,n,0.893,0.101,0.003,0.002,0.001,0.635,"Robot Battle, S18",-78.6381787,35.7795897,Raleigh NC
+driffy,San Bruno,CA,norcal,robot_battle_s18,11,3776100,1000,999,892,93,10,4,1,797,A,horse,p2,16,600,m,n,0.892,0.093,0.01,0.004,0.001,0.797,"Robot Battle, S18",-122.4110835,37.6304904,San Bruno CA
+x_law_x,Las Vegas,NV,lv,robot_battle_s18,12,3724900,1000,996,848,139,7,2,4,659,A,nx absolute,p1,22,670,m,n,0.848,0.139,0.007,0.002,0.004,0.659,"Robot Battle, S18",-115.1398296,36.1699412,Las Vegas NV
+c300,Sacramento,CA,norcal,robot_battle_s18,13,3572800,1000,990,913,63,6,8,10,440,A,prime 2,p2,3,590,m,n,0.913,0.063,0.006,0.008,0.01,0.44,"Robot Battle, S18",-121.4943996,38.5815719,Sacramento CA
+rhyme,Reno,NV,nv,robot_battle_s18,14,3513200,1000,976,840,111,19,6,24,592,A,prime,p2,12,640,m,n,0.84,0.111,0.019,0.006,0.024,0.592,"Robot Battle, S18",-119.8138027,39.5296329,Reno NV
+dnarwhal,San Jose,CA,norcal,robot_battle_s18,15,3437200,1000,985,809,145,25,6,15,720,A,prime 2,p1,11,620,m,n,0.809,0.145,0.025,0.006,0.015,0.72,"Robot Battle, S18",-121.8863286,37.3382082,San Jose CA
+telperion,South SF,CA,norcal,robot_battle_s18,16,3343600,1000,982,811,114,37,20,18,706,A,nx,p2,15,550,m,n,0.811,0.114,0.037,0.02,0.018,0.706,"Robot Battle, S18",-122.4077498,37.654656,South SF CA
+el rosa,San Diego,CA,sd,robot_battle_s18,17,3341500,1000,999,727,217,46,9,1,369,A,nx absolute,p1,13,680,m,n,0.727,0.217,0.046,0.009,0.001,0.369,"Robot Battle, S18",-117.1610838,32.715738,San Diego CA
+johnny,San Diego,CA,sd,robot_battle_s18,18,3256200,1000,985,788,166,24,7,15,512,A,prime 2,p2,13,660,m,n,0.788,0.166,0.024,0.007,0.015,0.512,"Robot Battle, S18",-117.1610838,32.715738,San Diego CA
+cheeze,Sacramento,CA,norcal,robot_battle_s18,19,3218400,1000,993,792,152,31,18,7,614,A,nx absolute,p1,7,615,m,n,0.792,0.152,0.031,0.018,0.007,0.614,"Robot Battle, S18",-121.4943996,38.5815719,Sacramento CA
+koyama,Morgan Hill,CA,norcal,robot_battle_s18,20,3058100,1000,976,807,129,25,15,24,457,A,old,p2,17,685,m,n,0.807,0.129,0.025,0.015,0.024,0.457,"Robot Battle, S18",-121.6543901,37.1305012,Morgan Hill CA
+cube,Sacramento,CA,norcal,robot_battle_s18,21,3050500,1000,976,818,119,28,11,24,296,A,basic mode,p2,11,629,m,n,0.818,0.119,0.028,0.011,0.024,0.296,"Robot Battle, S18",-121.4943996,38.5815719,Sacramento CA
+a_mango,Fullerton,CA,socal,robot_battle_s18,22,2944700,1000,972,766,171,28,7,28,440,A,old,p2,18,666,m,n,0.766,0.171,0.028,0.007,0.028,0.44,"Robot Battle, S18",-117.9242123,33.8703645,Fullerton CA
+irwin,Las Vegas,NV,lv,robot_battle_s18,23,2930000,1000,977,775,157,41,4,23,379,A,old,p1,9,702,m,y,0.775,0.157,0.041,0.004,0.023,0.379,"Robot Battle, S18",-115.1398296,36.1699412,Las Vegas NV
+clay,Reno,NV,nv,robot_battle_s18,24,2907700,1003,952,763,110,56,23,51,355,B,nx,p1,10,495,m,n,0.763,0.11,0.056,0.023,0.051,0.355,"Robot Battle, S18",-119.8138027,39.5296329,Reno NV
+gragla,Berkeley,CA,norcal,robot_battle_s18,25,2875500,1000,966,829,95,22,20,34,389,A,prime 2,p2,14,480,m,n,0.829,0.095,0.022,0.02,0.034,0.389,"Robot Battle, S18",-122.272747,37.8715926,Berkeley CA
+ervin,Chino Hills,CA,socal,robot_battle_s18,26,2832700,1000,981,797,129,45,10,19,446,A,old,p2,9,670,m,y,0.797,0.129,0.045,0.01,0.019,0.446,"Robot Battle, S18",-117.7325848,33.9898188,Chino Hills CA
+xfpkp79,San Jose,CA,norcal,robot_battle_s18,27,2766400,1000,992,668,187,120,17,8,515,A,prime,p2,1,594,m,y,0.668,0.187,0.12,0.017,0.008,0.515,"Robot Battle, S18",-121.8863286,37.3382082,San Jose CA
+daze,Salinas,CA,norcal,robot_battle_s18,28,2555400,1000,984,796,127,40,21,16,172,A,nx,p2,10,655,m,n,0.796,0.127,0.04,0.021,0.016,0.172,"Robot Battle, S18",-121.6555013,36.6777372,Salinas CA
+cuteblue,Detroit,MI,michigan,robot_battle_s18,29,2517000,1000,987,665,196,110,16,13,160,B,prime,p1,14,610,m,n,0.665,0.196,0.11,0.016,0.013,0.16,"Robot Battle, S18",-83.0457538,42.331427,Detroit MI
+valius,San Leandro,CA,norcal,robot_battle_s18,30,2488700,1000,978,666,190,93,29,22,259,B,nx absolute,p1,21,600,m,n,0.666,0.19,0.093,0.029,0.022,0.259,"Robot Battle, S18",-122.1560768,37.7249296,San Leandro CA
+X_,Mountain View,CA,norcal,robot_battle_s18,31,2423000,1000,951,728,147,48,28,49,261,C,nx,p2,22,594,m,n,0.728,0.147,0.048,0.028,0.049,0.261,"Robot Battle, S18",-122.0838511,37.3860517,Mountain View CA
+aeira,Chino Hills,CA,socal,robot_battle_s18,32,2398300,1000,958,675,147,99,37,42,177,C,nx absolute,p2,20,650,m,y,0.675,0.147,0.099,0.037,0.042,0.177,"Robot Battle, S18",-117.7325848,33.9898188,Chino Hills CA
+spitfire,St. Paul,MN,minnesota,robot_battle_s18,33,2286000,1000,969,681,219,54,15,31,163,B,girl,p1,6,680,m,y,0.681,0.219,0.054,0.015,0.031,0.163,"Robot Battle, S18",-93.0899578,44.9537029,St. Paul MN
+crispy,Galt,CA,norcal,robot_battle_s18,34,2257500,1000,937,692,145,72,28,63,279,C,sheep,p2,7,615,m,n,0.692,0.145,0.072,0.028,0.063,0.279,"Robot Battle, S18",-121.2999485,38.2546373,Galt CA
+1sttiger,San Francisco,CA,norcal,robot_battle_s18,35,2160100,1000,900,697,116,52,35,100,181,D,prime 2,p1,19,495,m,n,0.697,0.116,0.052,0.035,0.1,0.181,"Robot Battle, S18",-122.4194155,37.7749295,San Francisco CA
+chris4life,San Francisco,CA,norcal,robot_battle_s18,36,2055600,1000,948,761,116,43,28,52,122,B,easy,p1,15,600,m,n,0.761,0.116,0.043,0.028,0.052,0.122,"Robot Battle, S18",-122.4194155,37.7749295,San Francisco CA
+elgallo,San Francisco,CA,norcal,robot_battle_s18,37,2016500,1000,963,599,199,117,48,37,158,D,fiesta,p1,20,680,m,n,0.599,0.199,0.117,0.048,0.037,0.158,"Robot Battle, S18",-122.4194155,37.7749295,San Francisco CA
+aerostin,Elk Grove,CA,norcal,robot_battle_s18,38,1983700,1000,866,652,122,57,35,134,140,F,nx,p2,8,575,m,n,0.652,0.122,0.057,0.035,0.134,0.14,"Robot Battle, S18",-121.3716178,38.4087993,Elk Grove CA
+azurian,San Francisco,CA,norcal,robot_battle_s18,39,1974000,1000,902,700,116,52,34,98,108,D,nx,p1,16,573,m,n,0.7,0.116,0.052,0.034,0.098,0.108,"Robot Battle, S18",-122.4194155,37.7749295,San Francisco CA
+choco12,Garden Grove,CA,socal,robot_battle_s18,40,1957800,1000,911,591,146,112,62,89,163,F,nx absolute,p1,1,594,m,n,0.591,0.146,0.112,0.062,0.089,0.163,"Robot Battle, S18",-117.9379952,33.7742692,Garden Grove CA
+wtfuwant,Long Beach,CA,socal,robot_battle_s18,41,1951000,1000,885,670,106,75,34,115,226,F,ice,p1,18,600,m,n,0.67,0.106,0.075,0.034,0.115,0.226,"Robot Battle, S18",-118.1937395,33.7700504,Long Beach CA
+phoenix,San Diego,CA,sd,robot_battle_s18,42,1943800,1000,948,601,210,92,45,52,158,D,sheep,p1,8,615,m,n,0.601,0.21,0.092,0.045,0.052,0.158,"Robot Battle, S18",-117.1610838,32.715738,San Diego CA
+lvz_kiro,Las Vegas,NV,lv,robot_battle_s18,43,1939000,1000,938,694,127,75,42,62,115,D,fiesta,p2,19,670,m,n,0.694,0.127,0.075,0.042,0.062,0.115,"Robot Battle, S18",-115.1398296,36.1699412,Las Vegas NV
+wii money,San Jose,CA,norcal,robot_battle_s18,44,1750800,1000,908,595,176,107,30,92,117,D,easy,p1,17,594,m,n,0.595,0.176,0.107,0.03,0.092,0.117,"Robot Battle, S18",-121.8863286,37.3382082,San Jose CA
